@@ -1,0 +1,1 @@
+export const SERIALIZE_STATE_INTERVAL = 1000
